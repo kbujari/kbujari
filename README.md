@@ -1,1 +1,1 @@
-![alt text](night-hill.png)
+![alt text](hill.png)
