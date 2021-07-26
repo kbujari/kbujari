@@ -10,6 +10,8 @@
 i'm a computer engineering student and software developer, focusing on building high-performace software with a variety of tools and technologies,
 both web-based and compiled.
 
+<br>
+
 [![Kleidi's GitHub stats](https://github-readme-stats.vercel.app/api?username=kleidibujari&count_private=true&show_icons=true&theme=gruvbox)](https://github.com/anuraghazra/github-readme-stats)
 
 ^putting this here so it makes me work to get the numbers up.
