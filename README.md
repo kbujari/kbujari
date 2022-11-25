@@ -5,8 +5,8 @@
 
 ### About
 - 💾 I'm interested in robotics, operating system design, and computer hardware
-- 🌎 Working on learning Rust and understandin networking infrastructure performance
-- 🏡 Check out some of my blog posts at [kleidi.ca/blog](http://kleidi.ca/blog)
+- 🌎 Working on learning Rust and understanding networking infrastructure performance
+- 🏡 Check out some of my blog posts at [kleidi.ca/blog](https://kleidi.ca/blog)
 - 📫 You can reach me at [mail@kleidi.ca](mailto:mail@kleidi.ca)
 
 <hr>
