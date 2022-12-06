@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=kleidib&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=kbzt&count_private=true&show_icons=true&theme=transparent&hide_border=true" />
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </p>
 
@@ -11,6 +11,6 @@
 
 <hr>
 
-![followers](https://img.shields.io/github/followers/kleidib)
-![stars](https://img.shields.io/github/stars/kleidib)
+![followers](https://img.shields.io/github/followers/kbzt)
+![stars](https://img.shields.io/github/stars/kbzt)
 ![website](https://img.shields.io/website?down_message=offline&label=kleidi.ca&up_message=online&url=https%3A%2F%2Fkleidi.ca)
