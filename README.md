@@ -7,7 +7,6 @@
 - 💾 I'm interested in robotics, operating system design, and computer hardware
 - 🌎 Working on learning Rust and TypeScript as well as understanding networking infrastructure performance
 - 🏡 Check out some of my blog posts at [kleidi.ca/blog](https://kleidi.ca/blog)
-- 📫 You can reach me at [mail@kleidi.ca](mailto:mail@kleidi.ca)
 
 <hr>
 
