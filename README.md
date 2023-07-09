@@ -1,14 +1,14 @@
 <p align="center">
-  <!--<img src="https://github-readme-stats.vercel.app/api?username=kbzt&count_private=true&show_icons=true&theme=transparent&hide_border=true" />-->
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/QsIxnQlvcOAUUgU8k9/giphy.gif" width="250"/>
 </p>
 
-### About
-- 💾 I'm interested in robotics, operating system design, and computer hardware
-- 🌎 Working on learning Rust and TypeScript as well as understanding networking infrastructure performance
-- 🏡 Check out some of my blog posts at [kleidi.ca/posts](https://kleidi.ca/posts)
 
-<hr>
+### Tech
+- Currently interested in robotics, signal processing, and communications
+- Working on Rust and super high-speed networking
 
-![followers](https://img.shields.io/github/followers/kbzt)
-![stars](https://img.shields.io/github/stars/kbzt)
+### Personal
+Check out some of my blog posts at [kleidi.ca/posts](https://kleidi.ca/posts).
+
+---
+> “The universe is a pretty big place. If it's just us, seems like an awful waste of space.” 
