@@ -12,4 +12,3 @@
 
 ![followers](https://img.shields.io/github/followers/kbzt)
 ![stars](https://img.shields.io/github/stars/kbzt)
-![website](https://img.shields.io/website?down_message=offline&label=kleidi.ca&up_message=online&url=https%3A%2F%2Fkleidi.ca)
