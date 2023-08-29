@@ -3,7 +3,6 @@
 </p>
 
 ### Tech
-- Currently interested in robotics, signal processing, and communications
 - Working on Rust and super high-speed networking
 - Passionate about online privacy and security
 
