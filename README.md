@@ -10,4 +10,4 @@
 Check out some of my posts at [kleidi.ca/posts](https://kleidi.ca/posts).
 
 ---
-> “The universe is a pretty big place. If it's just us, seems like an awful waste of space.”
+> “That which I cannot create, I do not understand.”
